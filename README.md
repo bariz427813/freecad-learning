@@ -5,12 +5,8 @@ This repository contains my FreeCAD learning projects and mechanical design prac
 ## Projects
 
 ### Mounting Bracket V1
-A mechanical mounting bracket featuring:
-- Base mounting holes
-- Side mounting holes
-- Support rib
-- Through-hole bracket arm
-- ![Mounting Bracket](Mounting_Bracket_V1.png)
+
+![Mounting Bracket](Mounting_Bracket_V1.png)
 
 A mechanical mounting bracket featuring:
 
